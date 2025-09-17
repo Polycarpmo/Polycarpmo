@@ -41,9 +41,9 @@ Welcome to my GitHub profile! I’m passionate about building impactful digital 
 ---
 
 ## 📫 How to reach me
-- **Email:** polycarp.dev@example.com  
-- **LinkedIn:** [linkedin.com/in/polycarp](https://linkedin.com/in/polycarp)  
-- **Portfolio Website:** [polycarp.dev](https://polycarp.dev)  
+- **Email:**   
+- **LinkedIn:** 
+- **Portfolio Website:** 
 
 ---
 
